@@ -1,7 +1,3 @@
-# jazdw.github.io
-
-Personal website of Jared Wiltshire.
-
 ## About me
 
 I am a software developer, based in Boulder Colorado.
