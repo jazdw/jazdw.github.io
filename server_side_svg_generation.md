@@ -25,7 +25,7 @@ box, it was easy to patch. The modifications which I made were as follows:
 * Added SVG specific CSS properties to the CSS parser
 * Several bug fixes
 
-You can find the patched version of domino on my GitHub account - https://github.com/jazdw/domino.
+You can find the patched version of domino on my GitHub account - [https://github.com/jazdw/domino](https://github.com/jazdw/domino).
 
 Here's some sample code to get you started.
 

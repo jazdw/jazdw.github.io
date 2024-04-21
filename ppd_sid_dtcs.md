@@ -10,7 +10,7 @@ they match up with P-Codes i.e. codes for the powertrain.
 
 Try and find the SAE J2012 standards document on the net, it will explain how all the codes work and their definitions.
 P0xxx, P2xxx & P3xxx codes are generic codes, P1xxx codes are "manufacturer controlled" codes i.e. VW specific in this
-case. You might want to have a look at this site too http://www.dtcsearch.com/
+case. You might want to have a look at this site too [http://www.dtcsearch.com/](http://www.dtcsearch.com/).
 
 So in this file the table starts at 0x4CB06 and is 14 columns wide. We will work through finding and disabling the DTCs
 for the EGR. Shown below is a section of the table showing DTCs P0401, P0402 and P0404 which are for EGR flow low, high

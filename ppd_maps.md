@@ -43,7 +43,7 @@ This program comes without warranty of any kind, use at your own risk.
 
 ## Source code
 
-https://github.com/jazdw/ppd-maps
+[https://github.com/jazdw/ppd-maps](https://github.com/jazdw/ppd-maps)
 
 ## Information on DTCs and switches
 
