@@ -1,0 +1,272 @@
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN000F7100000
+Part Number:  03G906018A 
+Info String:  R4 2.0l PPD1.1
+Problems:     23
+              0 maps with no axes (next address is out of range)
+              2 maps with no axes (two maps in a row)
+              0 axes with no map
+              12 maps determined using fall back method
+              9 duplicate maps discarded (not including switches)
+Maps:         977
+DTCs:         246 (246 from table, 0 from switch)
+Switches:     442 / 221 pairs (20 direct access, 422 R2 indexed)
+TOTAL:        1665
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN000F7200000
+Part Number:  03G906018CK
+Info String:  R4 2.0l PPD1.5
+Problems:     24
+              0 maps with no axes (next address is out of range)
+              4 maps with no axes (two maps in a row)
+              0 axes with no map
+              11 maps determined using fall back method
+              9 duplicate maps discarded (not including switches)
+Maps:         976
+DTCs:         246 (246 from table, 0 from switch)
+Switches:     442 / 221 pairs (20 direct access, 422 R2 indexed)
+TOTAL:        1664
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN000F7500000
+Part Number:  03G906018  
+Info String:  R4 2.0l PPD1.1
+Problems:     23
+              0 maps with no axes (next address is out of range)
+              2 maps with no axes (two maps in a row)
+              0 axes with no map
+              12 maps determined using fall back method
+              9 duplicate maps discarded (not including switches)
+Maps:         978
+DTCs:         246 (246 from table, 0 from switch)
+Switches:     442 / 221 pairs (20 direct access, 422 R2 indexed)
+TOTAL:        1666
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN100K3000000
+Part Number:  03G906018AQ
+Info String:  R4 2.0l PPD1.3
+Problems:     32
+              0 maps with no axes (next address is out of range)
+              5 maps with no axes (two maps in a row)
+              0 axes with no map
+              17 maps determined using fall back method
+              10 duplicate maps discarded (not including switches)
+Maps:         1213
+DTCs:         288 (288 from table, 0 from switch)
+Switches:     468 / 234 pairs (0 direct access, 468 R2 indexed)
+TOTAL:        1969
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN100K5400000
+Part Number:  03G906018DT
+Info String:  R4 2.0l PPD1.2
+Problems:     37
+              1 maps with no axes (next address is out of range)
+              9 maps with no axes (two maps in a row)
+              0 axes with no map
+              17 maps determined using fall back method
+              10 duplicate maps discarded (not including switches)
+Maps:         1217
+DTCs:         289 (289 from table, 0 from switch)
+Switches:     470 / 235 pairs (0 direct access, 470 R2 indexed)
+TOTAL:        1976
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN100L6000000
+Part Number:  03G906018EM
+Info String:  R4 2.0l PPD1.2
+Problems:     32
+              0 maps with no axes (next address is out of range)
+              5 maps with no axes (two maps in a row)
+              0 axes with no map
+              17 maps determined using fall back method
+              10 duplicate maps discarded (not including switches)
+Maps:         1227
+DTCs:         292 (292 from table, 0 from switch)
+Switches:     476 / 238 pairs (0 direct access, 476 R2 indexed)
+TOTAL:        1995
+
+Manufacturer: VW/Audi
+ECU Type:     PPD
+Code Version: SN100L8000000
+Part Number:  03G906018FC
+Info String:  R4 2.0l PPD1.2
+Problems:     32
+              0 maps with no axes (next address is out of range)
+              5 maps with no axes (two maps in a row)
+              0 axes with no map
+              17 maps determined using fall back method
+              10 duplicate maps discarded (not including switches)
+Maps:         1228
+DTCs:         292 (292 from table, 0 from switch)
+Switches:     476 / 238 pairs (0 direct access, 476 R2 indexed)
+TOTAL:        1996
+
+Manufacturer: Peugeot
+ECU Type:     SID201
+Code Version: PP0B2C1000000
+Part Number:  5WS40060I-T
+Info String:  Unknown
+Problems:     0
+              0 maps with no axes (next address is out of range)
+              0 maps with no axes (two maps in a row)
+              0 axes with no map
+              0 maps determined using fall back method
+              0 duplicate maps discarded (not including switches)
+Maps:         0
+DTCs:         287 (287 from table, 0 from switch)
+Switches:     258 / 129 pairs (258 direct access, 0 R2 indexed)
+TOTAL:        545
+
+Manufacturer: Peugeot
+ECU Type:     SID201
+Code Version: PP0B2C1000000
+Part Number:  5WS40379A-T
+Info String:  Unknown
+Problems:     0
+              0 maps with no axes (next address is out of range)
+              0 maps with no axes (two maps in a row)
+              0 axes with no map
+              0 maps determined using fall back method
+              0 duplicate maps discarded (not including switches)
+Maps:         0
+DTCs:         287 (287 from table, 0 from switch)
+Switches:     258 / 129 pairs (258 direct access, 0 R2 indexed)
+TOTAL:        545
+
+Manufacturer: Ford
+ECU Type:     SID206
+Code Version: FR3D061000000
+Part Number:  5WS40584C-T
+Info String:  SIEMENS-SID206-FR3610MC
+Problems:     88
+              10 maps with no axes (next address is out of range)
+              61 maps with no axes (two maps in a row)
+              0 axes with no map
+              11 maps determined using fall back method
+              6 duplicate maps discarded (not including switches)
+Maps:         799
+DTCs:         216 (216 from table, 0 from switch)
+Switches:     404 / 202 pairs (70 direct access, 334 R2 indexed)
+TOTAL:        1419
+
+Manufacturer: Ford
+ECU Type:     SID206
+Code Version: FRBE085000000
+Part Number:  5WS40592J-T
+Info String:  SIEMENS-SID206-FRB820MC
+Problems:     87
+              12 maps with no axes (next address is out of range)
+              59 maps with no axes (two maps in a row)
+              0 axes with no map
+              9 maps determined using fall back method
+              7 duplicate maps discarded (not including switches)
+Maps:         1027
+DTCs:         279 (279 from table, 0 from switch)
+Switches:     468 / 234 pairs (68 direct access, 400 R2 indexed)
+TOTAL:        1774
+
+Manufacturer: Ford
+ECU Type:     SID803
+Code Version: FO10024000000
+Part Number:  Unknown
+Info String:  Unknown
+Problems:     118
+              16 maps with no axes (next address is out of range)
+              100 maps with no axes (two maps in a row)
+              0 axes with no map
+              2 maps determined using fall back method
+              0 duplicate maps discarded (not including switches)
+Maps:         205
+DTCs:         186 (186 from table, 0 from switch)
+Switches:     106 / 53 pairs (106 direct access, 0 R2 indexed)
+TOTAL:        497
+
+Manufacturer: Peugeot
+ECU Type:     SID803
+Code Version: PO000AA000000
+Part Number:  Unknown
+Info String:  Unknown
+Problems:     130
+              17 maps with no axes (next address is out of range)
+              112 maps with no axes (two maps in a row)
+              0 axes with no map
+              1 maps determined using fall back method
+              0 duplicate maps discarded (not including switches)
+Maps:         242
+DTCs:         218 (218 from table, 0 from switch)
+Switches:     124 / 62 pairs (124 direct access, 0 R2 indexed)
+TOTAL:        584
+
+Manufacturer: Peugeot
+ECU Type:     SID803A
+Code Version: PO30052000000
+Part Number:  5WS40320E-T
+Info String:  Unknown
+Problems:     105
+              13 maps with no axes (next address is out of range)
+              88 maps with no axes (two maps in a row)
+              0 axes with no map
+              1 maps determined using fall back method
+              3 duplicate maps discarded (not including switches)
+Maps:         1046
+DTCs:         233 (233 from table, 0 from switch)
+Switches:     392 / 196 pairs (392 direct access, 0 R2 indexed)
+TOTAL:        1671
+
+Manufacturer: Peugeot
+ECU Type:     SID803A
+Code Version: PO30080000000
+Part Number:  5WS40612B-T
+Info String:  Unknown
+Problems:     105
+              13 maps with no axes (next address is out of range)
+              88 maps with no axes (two maps in a row)
+              0 axes with no map
+              1 maps determined using fall back method
+              3 duplicate maps discarded (not including switches)
+Maps:         1048
+DTCs:         235 (235 from table, 0 from switch)
+Switches:     392 / 196 pairs (392 direct access, 0 R2 indexed)
+TOTAL:        1675
+
+Manufacturer: Peugeot
+ECU Type:     SID803A
+Code Version: PO30091000000
+Part Number:  5WS40615C-T
+Info String:  Unknown
+Problems:     106
+              13 maps with no axes (next address is out of range)
+              88 maps with no axes (two maps in a row)
+              0 axes with no map
+              1 maps determined using fall back method
+              4 duplicate maps discarded (not including switches)
+Maps:         1087
+DTCs:         243 (243 from table, 0 from switch)
+Switches:     400 / 200 pairs (400 direct access, 0 R2 indexed)
+TOTAL:        1730
+
+Manufacturer: Volvo
+ECU Type:     SID803A
+Code Version: VO40041000000
+Part Number:  5WS40562A-T
+Info String:  Unknown
+Problems:     0
+              0 maps with no axes (next address is out of range)
+              0 maps with no axes (two maps in a row)
+              0 axes with no map
+              0 maps determined using fall back method
+              0 duplicate maps discarded (not including switches)
+Maps:         0
+DTCs:         185 (185 from table, 0 from switch)
+Switches:     344 / 172 pairs (344 direct access, 0 R2 indexed)
+TOTAL:        529
+
