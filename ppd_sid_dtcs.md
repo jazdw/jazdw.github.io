@@ -1,7 +1,8 @@
 # PPD/SID DTCs and Switches
 
 This is a quick write-up of my understanding of the DTCs and switches in the Siemens PPD and SID803/SID803A/SID206 ECUs.
-I will be working with the PPD SN100L8000000 file from the [sample BDM files](files/BDM-Samples.7z).
+I will be working with the PPD SN100L8000000 file from the
+[sample BDM files](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/BDM-Samples.7z).
 
 ## DTC table entries
 
@@ -52,8 +53,8 @@ entry.
 I found that when I zero the error class the MIL turns off but the ECU still knows that there is a fault and still
 behaves in its "fail safe" mode.
 
-This is what
-the [VW SSP for this particular engine](files/SSP_368_The_2_0l_-_125_kW-TDI_Engine_with_4-valve_technology.pdf)
+This is what the
+[VW SSP for this particular engine](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/SSP_368_The_2_0l_-_125_kW-TDI_Engine_with_4-valve_technology.pdf)
 says regarding the EGR potentiometer.
 
 > In the event that the sensor fails, exhaust gas recirculation is switched off. The EGR valve's current supply is also

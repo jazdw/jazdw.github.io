@@ -22,7 +22,7 @@ reading OBD-II PIDs and its raw CAN mode is limited which makes implementing VW 
 
 ## Download
 
-* [Windows binary - Version 1.0.0 beta](files/vagblocks-1.0.0_beta-Windows.zip)
+* [Windows binary - Version 1.0.0 beta](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/vagblocks-1.0.0_beta-Windows.zip)
   * Released 15 January 2012
   * ~3.0MB
 

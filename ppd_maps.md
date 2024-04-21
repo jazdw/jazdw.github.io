@@ -22,19 +22,20 @@ via the A2L ([ASAP2](https://www.vector.com/vi_datadescription_ecu1_en.html)) ex
 
 This program comes without warranty of any kind, use at your own risk.
 
-* [Windows binary - Version 1.3.2](files/PPD-Maps-1.3.2-Windows.zip)
+* [Windows binary - Version 1.3.2](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/PPD-Maps-1.3.2-Windows.zip)
   * Released 22 October 2012
   * ~2.9MB
-* [Ubuntu 12.04 binary - Version 1.3.0](files/PPD-Maps-1.3.0-Ubuntu.12.04.gz)
+* [Ubuntu 12.04 binary - Version 1.3.0](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/PPD-Maps-1.3.0-Ubuntu.12.04.gz)
   * Released 5 October 2012
   * ~150KB
-* [Ubuntu 10.04 binary - Version 1.3.0](files/PPD-Maps-1.3.0-Ubuntu.10.04.gz)
+* [Ubuntu 10.04 binary - Version 1.3.0](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/PPD-Maps-1.3.0-Ubuntu.10.04.gz)
   * Released 5 October 2012
   * ~150KB
 
 ### Other files
 * [Changelog](files/changelog.txt)
-* [Sample BDM Files](files/BDM-Samples.7z) (~2.3MB)
+* [Sample BDM Files (7z)](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/BDM-Samples.7z) (~2.3MB)
+* [Sample BDM Files (Zip)](https://github.com/jazdw/jazdw.github.io/releases/download/v1.0.0/BDM-Samples.zip) (~7.6MB)
 * [Test results](files/VER1.3.0-SVN135.txt)
 
 ### Ubuntu prerequisites
