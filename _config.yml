@@ -5,3 +5,5 @@ url: "https://jazdw.net"
 github_username:  jazdw
 theme: minima
 permalink: /:categories/:year/:month/:day/:slug
+plugins:
+  - jekyll-sitemap
