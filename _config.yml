@@ -1,0 +1,7 @@
+title: Personal website of Jared Wiltshire
+description: >-
+  Personal website of Jared Wiltshire, software developer at Radix IoT.
+url: "https://jaredwiltshire.com"
+github_username:  jazdw
+theme: minima
+permalink: /:categories/:year/:month/:day/:slug
