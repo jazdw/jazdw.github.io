@@ -1,4 +1,7 @@
-# Resource Query Language (RQL) parser for Java
+---
+title: Resource Query Language (RQL) parser for Java
+permalink: /content/resource-query-language-parser-java
+---
 
 Resource Query Language or RQL is a query language which provides a nice way of querying a data store, SQL database etc.
 via a URI. For more details on RQL see

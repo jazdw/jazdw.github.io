@@ -1,4 +1,7 @@
-# PPD/SID DTCs and Switches
+---
+title: PPD/SID DTCs and Switches
+permalink: /ppd-maps/DTCs
+---
 
 This is a quick write-up of my understanding of the DTCs and switches in the Siemens PPD and SID803/SID803A/SID206 ECUs.
 I will be working with the PPD SN100L8000000 file from the

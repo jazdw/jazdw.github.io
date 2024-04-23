@@ -1,4 +1,7 @@
-# Server side SVG generation using D3.js
+---
+title: Server side SVG generation using D3.js
+permalink: /content/server-side-svg-generation-using-d3js
+---
 
 Dynamic graphics generation for displaying charts in a web browser from data passed from the server is a nifty trick.
 Sometimes however it may be desirable to generate SVG content on the server side, e.g. to lessen the demand on the

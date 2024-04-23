@@ -1,4 +1,7 @@
-# CAN bus communication in Java
+---
+title: CAN bus communication in Java
+permalink: /can-bus-java
+---
 
 I have been working on a project that enables CAN bus access from Java. It uses JNA to connect to the Linux SocketCAN
 API. The code is available [on GitHub](https://github.com/jazdw/jnaCan).

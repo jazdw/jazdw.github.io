@@ -1,4 +1,7 @@
-# VAG Blocks
+---
+title: VAG Blocks
+permalink: /vag-blocks
+---
 
 VAG Blocks is open source (GPLv3) beta software for reading VAG group specific measuring blocks from an OBD-II port
 using an inexpensive [ELM327](http://en.wikipedia.org/wiki/ELM327) type adapter. Both Bluetooth and USB adapters have

@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 ## About me
 
 I am a software developer, based in Boulder Colorado.
