@@ -7,3 +7,8 @@ theme: minima
 permalink: /:categories/:year/:month/:day/:slug
 plugins:
   - jekyll-sitemap
+exclude:
+  - BUILD.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
